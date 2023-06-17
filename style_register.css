@@ -1,0 +1,259 @@
+body{
+    background-image: url(../Obrázky/Register_background.png);
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    background-size: 100% auto;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+}
+#jumbo1{
+    position: absolute;
+    width: 550px;
+    height: 70px;
+    left: 25px;
+    top: 15px;
+    
+    background: rgba(217, 217, 217, 0.5);
+}
+#back{
+    position: absolute;
+    width: 550px;
+    height: 70px;
+    left: 25px;
+    top: 15px;
+    
+    font-family: 'TF2';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: #FFFFFF;
+    z-index: 1;
+}
+#jumbo2{
+    position: absolute;
+    width: 675px;
+    height: 625px;
+    left: 50px;
+    top: 150px;
+    
+    background: #D9D9D9;
+    opacity: 0.75;
+    border-radius: 69px 0px;
+}
+#jumbo3{
+    position: absolute;
+    width: 675px;
+    height: 625px;
+    left: 743px;
+    top: 150px;;
+    
+    background: #D9D9D9;
+    opacity: 0.75;
+    border-radius: 69px 0px;
+}
+#jumbo4{
+    position: absolute;
+    width: 1660px;
+    height: 500px;
+    left: 0px;
+    top: 800px;
+    
+    background: #D4B490;
+    z-index: 1;
+}
+#next{
+    position: absolute;
+    width: 916px;
+    height: 114px;
+    left: 450px;
+    top: 800px;
+    
+    font-family: 'TF2';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 96px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    
+    color: #FFFFFF;
+    z-index: 2;
+}
+#p1{
+    position: absolute;
+    width: 490px;
+    height: 94px;
+    left: 104px;
+    top: 206px;
+    
+    font-family: 'TF2';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 96px;
+    
+    color: #000000;    
+}
+#p2{
+    position: absolute;
+    width: 281px;
+    height: 37px;
+    left: 104px;
+    top: 311px;
+    
+    font-family: 'TF2';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    
+    color: #000000;    
+}
+#p3{
+    position: absolute;
+    width: 281px;
+    height: 37px;
+    left: 104px;
+    top: 450px;
+    
+    font-family: 'TF2';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    
+    color: #000000;
+}
+#p4{
+    position: absolute;
+    width: 281px;
+    height: 37px;
+    left: 104px;
+    top: 600px;
+    
+    font-family: 'TF2';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    
+    color: #000000;
+    
+}
+#p5{
+    position: absolute;
+    width: 378px;
+    height: 72px;
+    left: 837px;
+    top: 228px;
+    
+    font-family: 'TF2';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    
+    color: #000000;
+    
+}
+#p6{
+    position: absolute;
+    width: 490px;
+    height: 94px;
+    left: 837px;
+    top: 277px;
+    
+    font-family: 'TF2';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 96px;
+    
+    color: #000000;
+    
+}
+#p7{
+    position: absolute;
+    width: 281px;
+    height: 37px;
+    left: 837px;
+    top: 399px;
+    
+    font-family: 'TF2';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    
+    color: #000000;
+}
+#p8{
+    position: absolute;
+    width: 281px;
+    height: 37px;
+    left: 837px;
+    top: 586px;
+    
+    font-family: 'TF2';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 32px;
+    
+    color: #000000;    
+}
+#input1{
+    position: absolute;
+    width: 490px;
+    height: 75px;
+    left: 104px;
+    top: 348px;
+    
+    background: rgba(255, 255, 255, 0.5);
+}
+#input2{
+    position: absolute;
+    width: 490px;
+    height: 75px;
+    left: 104px;
+    top: 490px;
+    
+    background: rgba(255, 255, 255, 0.5);
+}
+#input3{
+    position: absolute;
+    width: 490px;
+    height: 75px;
+    left: 104px;
+    top: 635px;
+    
+    background: rgba(255, 255, 255, 0.5);
+}
+#input4{
+    position: absolute;
+    width: 490px;
+    height: 75px;
+    left: 837px;
+    top: 436px;
+    
+    background: rgba(255, 255, 255, 0.5);
+}
+#input5{
+    position: absolute;
+    width: 490px;
+    height: 88px;
+    left: 837px;
+    top: 623px;
+    
+    background: rgba(255, 255, 255, 0.5);
+}

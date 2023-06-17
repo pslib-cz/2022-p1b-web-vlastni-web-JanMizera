@@ -1,0 +1,126 @@
+a {
+    text-decoration: none;
+  }
+
+h1{
+    position: absolute;
+width: 1406px;
+height: 278px;
+left: 34px;
+top: 0px;
+
+font-family: 'TF2';
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 128px;
+display: flex;
+align-items: flex-end;
+
+color: #FFFFFF;
+}
+
+body {
+    background-image: url('../Obrázky/Index_background.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+}
+
+#jumbo1{
+    position: absolute;
+width: 620px;
+height: 120px;
+left: 34px;
+top: 410px;
+
+background: #8D3333;
+opacity: 0.5;
+z-index: 0;
+}
+
+#Start {
+    position: absolute;
+    width: 620px;
+    height: 120px;
+    left: 34px;
+    top: 410px;
+
+    font-family: 'TF2';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 96px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    color: #FFFFFF;
+    z-index: 1;
+}
+
+#jumbo2{
+    position: absolute;
+    width: 620px;
+    height: 120px;
+    left: 34px;
+    top: 612px;
+    
+    background: #8D3333;
+    opacity: 0.5;
+opacity: 0.5;
+z-index: 0;
+}
+
+#video{
+    position: absolute;
+width: 620px;
+height: 120px;
+left: 34px;
+top: 612px;
+
+font-family: 'TF2';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 48px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+z-index: 1;
+}
+
+#jumbo3 {
+    position: absolute;
+    width: 450px;
+    height: 55px;
+    left: 35px;
+    top: 800px;
+    background: #8D3333;
+    opacity: 0.5;
+    z-index: 0;
+}
+
+#sources {
+    position: absolute;
+    width: 450px;
+    height: 55px;
+    left: 35px;
+    top: 800px;
+    font-family: 'TF2';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 48px;
+    color: #FFFFFF;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}

@@ -1,0 +1,146 @@
+a{
+    text-decoration: none;
+}
+body {
+    background-image: url(../Obrázky/Problem_background.png);
+    background-repeat: no-repeat;
+    background-position: -11px -58px;
+    background-size: 1920px 1082px;
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+}
+#jumbo1{
+    position: absolute;
+width: 755px;
+height: 75px;
+left: 20px;
+top: 15px;
+
+background: rgba(217, 217, 217, 0.5);
+z-index: 0;
+}
+#back {
+    left: 20px;
+    top: 15px;
+    position: absolute;
+    width: 755px;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-family: 'TF2';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 64px;
+    color: #FFFFFF;
+    z-index: 1;
+}
+#jumbo2{
+    position: absolute;
+width: 750px;
+height: 750px;
+left: calc(50% - 750px/2 - 325px);
+top: 125px;
+
+background: rgba(217, 217, 217, 0.5);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 69px 0px;
+z-index: 0;
+}
+#p1{
+    position: absolute;
+    width: 700px;
+    height: 150px;
+    left: 45px;
+    top: 175px;
+    
+    font-family: 'TF2';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 64px;
+    
+    color: #FFFFFF;
+    z-index: 1;
+}
+#p2{
+    position: absolute;
+    width: 700px;
+    height: 150px;
+    left: 45px;
+    top: 375px;
+    
+    font-family: 'TF2';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 64px;
+    
+    color: #FFFFFF;
+    z-index: 1;    
+}
+#p3{
+    position: absolute;
+    width: 700px;
+    height: 150px;
+    left: 45px;
+    top: 575px;
+    
+    font-family: 'TF2';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 64px;
+    
+    color: #FFFFFF;
+    z-index: 1;    
+}
+#jumbo3{
+    position: absolute;
+    width: 630px;
+    height: 100px;
+    left: 70px;
+    top: 725px;
+    
+    background: #D4B490;
+    z-index: 2;
+}
+#next{
+    position: absolute;
+    width: 630px;
+    height: 100px;
+    left: 70px;
+    top: 725px;
+    
+    font-family: 'TF2';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 64px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: #FFFFFF;
+    z-index: 3;
+}
+#engie{
+    position: absolute;
+    width: 129px;
+    height: 120px;
+    left: 928px;
+    top: 525px;
+}
+#spy {
+    position: absolute;
+    width: 60px;
+    height: 128px;
+    left: 1224px;
+    top: 503px;
+}

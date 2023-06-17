@@ -1,0 +1,171 @@
+a{
+  text-decoration: none;
+}
+body {
+  background-image: url(../Obrázky/Introduce_background.png);
+  background-repeat: no-repeat;
+  background-position: 0px -56px;
+  background-size: 100% auto;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+#jumbo1{
+  position: absolute;
+  width: 550px;
+  height: 70px;
+  left: 25px;
+  top: 15px;
+  
+  background: rgba(217, 217, 217, 0.5);
+}
+#jumbo2{
+  position: absolute;
+  width: 550px;
+  height: 775px;
+  left: 25px;
+  top: 100px;
+  
+  background: rgba(238, 238, 238, 0.5);
+  opacity: 0.5;
+  border-radius: 69px 0px;
+  z-index: 0;
+}
+#back{
+  position: absolute;
+  width: 550px;
+  height: 70px;
+  left: 25px;
+  top: 15px;
+  
+  font-family: 'TF2';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 64px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  color: #FFFFFF;
+  z-index: 1;
+}
+#p1{
+  position: absolute;
+  width: 550px;
+  height: 200px;
+  left: 25px;
+  top: 100px;
+  
+  font-family: 'TF2';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 85px;
+  line-height: 85px;
+  display: flex;
+  align-items: flex-end;
+  text-align: center;
+  z-index: 1;
+  color: #FFFFFF;
+}
+#p2{
+  position: absolute;
+  width: 550px;
+  height: 75px;
+  left: 25px;
+  top: 325px;
+  
+  font-family: 'TF2';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  z-index: 1;
+  color: #FFFFFF;
+}
+#p3{
+  position: absolute;
+  width: 550px;
+  height: 75px;
+  left: 25px;
+  top: 400px;
+  justify-content: center;
+  font-family: 'TF2';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  z-index: 1;
+  color: #FFFFFF;
+}
+#p4{
+  position: absolute;
+  width: 550px;
+  height: 100px;
+  left: 25px;
+  top: 475px;
+  
+  font-family: 'TF2';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  z-index: 1;
+  color: #FFFFFF;
+}
+#jumbo3{
+  position: absolute;
+  width: 462px;
+  height: 133px;
+  left: 76px;
+  top: 575px;
+  z-index: 2;
+  background: #7E7E7E;
+}
+#next{
+  position: absolute;
+  width: 463px;
+  height: 133px;
+  left: 75px;
+  top: 575px;
+  
+  font-family: 'TF2';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  
+  color: #FFFFFF;
+  z-index: 3;  
+}
+#darts{
+  position: absolute;
+  width: 375px;
+  height: 176.08px;
+  left: 100px;
+  top: 700px;
+}
+#gunslinger {
+  position: absolute;
+  width: 150px;
+  height: 125px;
+  left: 213px;
+  top: 725px;
+  transform: rotate(-15deg);
+}
